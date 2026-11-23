@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">Mars Watch</string>
+    <string id="SceneTitle">Scene</string>
+    <string id="Auto">Automatic</string>
+    <string id="Dawn">Dawn</string>
+    <string id="Day">Day</string>
+    <string id="Dusk">Dusk</string>
+    <string id="Night">Night</string>
+</strings>

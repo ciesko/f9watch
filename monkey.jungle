@@ -1,0 +1,6 @@
+project.manifest = manifest.xml
+base.sourcePath = source
+base.resourcePath = resources
+fenix9pro51mm.resourcePath = $(base.resourcePath);resources-fenix9pro51mm
+fenix5x.resourcePath = $(base.resourcePath);resources-fenix5x
+fenix5x.excludeAnnotations = amoled

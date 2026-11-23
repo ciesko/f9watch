@@ -1,0 +1,22 @@
+# Build outputs and local state
+/bin/
+/.local/
+*.prg
+*.prg.debug.xml
+*.iq
+
+# Signing keys and local configuration
+*.der
+*.pem
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+
+# Python caches and macOS metadata
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store

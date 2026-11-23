@@ -1,0 +1,9 @@
+<resources>
+    <bitmap id="Dawn" filename="dawn.png" automaticPalette="true" compress="true"/>
+    <bitmap id="Day" filename="day.png" automaticPalette="true" compress="true"/>
+    <bitmap id="Dusk" filename="dusk.png" automaticPalette="true" compress="true"/>
+    <bitmap id="Night" filename="night.png" automaticPalette="true" compress="true"/>
+    <bitmap id="LauncherIcon" filename="icon.png"/>
+    <font id="TimeFont" filename="time.fnt" antialias="false"/>
+    <font id="SmallFont" filename="small.fnt" antialias="false"/>
+</resources>

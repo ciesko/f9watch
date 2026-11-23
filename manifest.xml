@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
+    <iq:application id="806a14ce79fd4c08b84ae917a964535e" type="watchface"
+                    name="@Strings.AppName" entry="MarsApp"
+                    launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.1.0">
+        <iq:products>
+            <iq:product id="fenix9pro51mm"/>
+            <iq:product id="fenix5x"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages><iq:language>eng</iq:language></iq:languages>
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>

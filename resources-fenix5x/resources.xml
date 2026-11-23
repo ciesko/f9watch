@@ -1,0 +1,85 @@
+<resources>
+    <bitmap id="Dawn" filename="dawn.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>555555</color>
+            <color>5555aa</color>
+            <color>000055</color>
+            <color>005555</color>
+            <color>aa5555</color>
+            <color>0055aa</color>
+            <color>550055</color>
+            <color>aaaaff</color>
+            <color>aa55aa</color>
+            <color>55aaff</color>
+            <color>0000aa</color>
+            <color>5555ff</color>
+            <color>aaaaaa</color>
+            <color>ffaaaa</color>
+            <color>ff5555</color>
+            <color>5500aa</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Day" filename="day.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>aa5555</color>
+            <color>aaaa55</color>
+            <color>ffaa55</color>
+            <color>ffaaaa</color>
+            <color>ff5555</color>
+            <color>aa5500</color>
+            <color>555555</color>
+            <color>aaaaaa</color>
+            <color>550000</color>
+            <color>555500</color>
+            <color>ff5500</color>
+            <color>550055</color>
+            <color>ffffaa</color>
+            <color>aa55aa</color>
+            <color>aa0000</color>
+            <color>aa0055</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Dusk" filename="dusk.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000055</color>
+            <color>000000</color>
+            <color>005555</color>
+            <color>555555</color>
+            <color>550055</color>
+            <color>aa5555</color>
+            <color>550000</color>
+            <color>aa5500</color>
+            <color>005500</color>
+            <color>555500</color>
+            <color>aa0000</color>
+            <color>aa0055</color>
+            <color>ff5555</color>
+            <color>ff5500</color>
+            <color>ffaa55</color>
+            <color>aaaa55</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Night" filename="night.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>000055</color>
+            <color>555555</color>
+            <color>005555</color>
+            <color>550055</color>
+            <color>005500</color>
+            <color>5555aa</color>
+            <color>550000</color>
+            <color>aa5555</color>
+            <color>555500</color>
+            <color>ffaa55</color>
+            <color>aa5500</color>
+            <color>aaaaaa</color>
+            <color>aaaa55</color>
+            <color>ffaaaa</color>
+            <color>ffffaa</color>
+        </palette>
+    </bitmap>
+    <bitmap id="LauncherIcon" filename="icon.png"/>
+    <font id="TimeFont" filename="time.fnt" antialias="false"/>
+    <font id="SmallFont" filename="small.fnt" antialias="false"/>
+</resources>
